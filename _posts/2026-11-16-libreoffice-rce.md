@@ -17,7 +17,7 @@ The vulnerabilities are tracked as CVE-2026-104692 and CVE-2026-104007.
 | Affected | Fixed | Prerequisite |
 |----------|-------|--------------|
 | ≤ 26.2.6.x | 26.2.7 | Java runtime installed and enabled in LibreOffice |
-| ≤ 26.8.1.1 | 26.8.2.2 | Java runtime installed and enabled in LibreOffice |
+| ≤ 26.8.1 | 26.8.2 | Java runtime installed and enabled in LibreOffice |
 
 <br/>
 
