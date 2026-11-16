@@ -814,7 +814,7 @@ if __name__ == "__main__":
 ### Windows
 
 <video width="100%" controls>
-  <source src="/assets/videos/libreoffice-rce-windows.mp4" type="video/mp4">
+  <source src="/assets/LibreOffice_RCE/LibreOffice_RCE_Windows.mp4" type="video/mp4">
 </video>
 
 <br/>
@@ -822,7 +822,7 @@ if __name__ == "__main__":
 ### macOS
 
 <video width="100%" controls>
-  <source src="/assets/videos/libreoffice-rce-macos.mp4" type="video/mp4">
+  <source src="/assets/LibreOffice_RCE/LibreOffice_RCE_MacOS.mp4" type="video/mp4">
 </video>
 
 <br/>
@@ -830,7 +830,7 @@ if __name__ == "__main__":
 ### Linux
 
 <video width="100%" controls>
-  <source src="/assets/videos/libreoffice-rce-linux.mp4" type="video/mp4">
+  <source src="/assets/LibreOffice_RCE/LibreOffice_RCE_Linux.mp4" type="video/mp4">
 </video>
 
 <br/>
