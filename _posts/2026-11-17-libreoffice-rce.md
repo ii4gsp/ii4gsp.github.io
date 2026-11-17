@@ -160,7 +160,7 @@ External ODB via form:datasource:
 
 ### Patch
 
-The 26.8.2.2 pre-release patches both vulnerabilities with defense-in-depth.
+The 26.8.2 patches both vulnerabilities with defense-in-depth.
 
 <br/>
 
