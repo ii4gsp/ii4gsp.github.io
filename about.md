@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
+title: Minseong Kim
 ---
 
-## Minseong Kim
-
-Security Researcher at **NSHC Red Alert Labs** (2021.11 ~ Present)
+### Work Experience
+- Security Researcher at **NSHC Red Alert Labs** (2021.11 ~ Present)
 
 ### Interests
 
