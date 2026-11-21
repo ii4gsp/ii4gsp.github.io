@@ -63,3 +63,14 @@
 .css .o,
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
+
+// Objective-C: fix low-contrast colors on dark code background (#0f1011)
+.language-objc .highlight {
+  .nv, .vi, .vc, .vg { color: #7ec8c8; }  /* Variables — was #033 */
+  .ow { color: #DDDAD6; }                  /* Operator.Word — was #000 */
+  .no { color: #98c379; }                   /* Name.Constant — was #360 */
+  .bp { color: #56b6c2; }                   /* Name.Builtin.Pseudo — was #366 */
+  .nt { color: #5fafd7; }                   /* Name.Tag — was #2f6f9f */
+  .nc { color: #56d6a0; }                   /* Name.Class — was #0a8 */
+  .ne { color: #ff6666; }                   /* Name.Exception — was #c00 */
+}
