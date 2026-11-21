@@ -64,8 +64,9 @@
 .css .o + .nt,
 .css .nt + .nt { color: #999; }
 
-// Objective-C: fix low-contrast colors on dark code background (#0f1011)
-.language-objc .highlight {
+// Objective-C & Swift: fix low-contrast colors on dark code background (#0f1011)
+.language-objc .highlight,
+.language-swift .highlight {
   .nv, .vi, .vc, .vg { color: #7ec8c8; }  /* Variables — was #033 */
   .ow { color: #DDDAD6; }                  /* Operator.Word — was #000 */
   .no { color: #98c379; }                   /* Name.Constant — was #360 */
