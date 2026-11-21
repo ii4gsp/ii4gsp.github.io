@@ -18,7 +18,7 @@ title: Minseong Kim
 - **CVE-2026-49413** - FreeBSD LPE via Linuxulator AT_SECURE Logic Bug
 - **CVE-2026-104692** - LibreOffice Code execution through Java method calls in HSQLDB databases
 - **CVE-2026-104007** - LibreOffice Code execution through the JDBC driver path of a database document
-- **CVE-pending** iTerm2 Remote Command Execution via Kitty Image Protocol APC Response Injection
+- **CVE-pending** - iTerm2 Remote Command Execution via Kitty Image Protocol APC Response Injection
 
 ### Contribution
 
